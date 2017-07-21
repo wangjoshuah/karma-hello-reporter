@@ -1,6 +1,6 @@
 {
   "name": "karma-hello-reporter",
-  "version": "0.0.1",
+  "version": "0.1.0s",
   "description": "A barebones template of a reporter plugin for karma test runner.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangjoshuah/karma-reporter-plugin-template.git"
+    "url": "git+https://github.com/wangjoshuah/karma-hello-reporter.git"
   },
   "keywords": [
     "karma",
     "karma-reporter",
-    "karma-reporter-plugin-template"
+    "karma-hello-reporter"
   ],
   "author": "Josh Wang <wangjoshuah@gmail.com> (https://wangjoshuah.com)",
   "peerDependencies": {
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangjoshuah/karma-reporter-plugin-template/issues"
+    "url": "https://github.com/wangjoshuah/karma-hello-reporter/issues"
   },
-  "homepage": "https://github.com/wangjoshuah/karma-reporter-plugin-template#readme",
+  "homepage": "https://github.com/wangjoshuah/karma-hello-reporter#readme",
   "devDependencies": {
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
